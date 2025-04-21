@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# GCP service account keys
+*.json
+
+# Big datasets (local only)
+sample_data/*.csv
+sample_data/*.json
+
+# Airflow logs
+logs/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
